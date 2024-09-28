@@ -1,0 +1,193 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hello",
+                "Hey",
+                "Greetings",
+                "What's up?",
+                "How are you?",
+                "Good morning",
+                "Good afternoon",
+                "Good evening"
+            ],
+            "responses": [
+                "Hello! How can I assist you today?",
+                "Hi there! How can I help?",
+                "Hey! What's on your mind?",
+                "Greetings! How can I be of service?",
+                "I'm here to help! What do you need?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "See you",
+                "Goodbye",
+                "Take care",
+                "Catch you later",
+                "Have a nice day",
+                "See you soon"
+            ],
+            "responses": [
+                "Goodbye! Have a great day!",
+                "See you later!",
+                "Take care!",
+                "Until next time!",
+                "It was nice chatting with you!"
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thanks",
+                "Thank you",
+                "Appreciate it",
+                "Thanks a lot",
+                "Thank you very much",
+                "Many thanks"
+            ],
+            "responses": [
+                "You're welcome!",
+                "Happy to help!",
+                "Anytime!",
+                "No problem at all!",
+                "My pleasure!"
+            ]
+        },
+        {
+            "tag": "name",
+            "patterns": [
+                "What is your name?",
+                "Who are you?",
+                "Can you tell me your name?",
+                "What should I call you?"
+            ],
+            "responses": [
+                "I'm Ahmed Khanzada, your personal assistant!",
+                "I'm ChatBot, here to help you.",
+                "You can call me ChatBot or Ahmed Khanzada!",
+                "My name is ChatBot, your virtual helper."
+            ]
+        },
+        {
+            "tag": "age",
+            "patterns": [
+                "How old are you?",
+                "What is your age?",
+                "When were you created?",
+                "Are you old?"
+            ],
+            "responses": [
+                "I don't have an age like humans do, but I've been learning for a while!",
+                "Age is just a number, but I'm continuously updated!",
+                "I was created to assist you, regardless of age."
+            ]
+        },
+        {
+            "tag": "location",
+            "patterns": [
+                "Where are you located?",
+                "Where do you live?",
+                "What is your location?",
+                "Are you based in a specific place?"
+            ],
+            "responses": [
+                "I'm a virtual assistant, so I exist in the cloud!",
+                "I don't have a physical location; I'm here wherever you need me!",
+                "I exist online, so I'm always with you!"
+            ]
+        },
+        {
+            "tag": "help",
+            "patterns": [
+                "Can you help me?",
+                "I need assistance",
+                "What can you do?",
+                "Help me please",
+                "Can you assist me?"
+            ],
+            "responses": [
+                "Of course! I'm here to assist you with your queries.",
+                "What do you need help with?",
+                "I'm equipped to provide information and support!",
+                "Just let me know what you need assistance with!"
+            ]
+        },
+        {
+            "tag": "joke",
+            "patterns": [
+                "Tell me a joke",
+                "Make me laugh",
+                "Do you know any jokes?",
+                "Say something funny"
+            ],
+            "responses": [
+                "Why don't scientists trust atoms? Because they make up everything!",
+                "Why did the scarecrow win an award? Because he was outstanding in his field!",
+                "I'm reading a book on anti-gravity. It's impossible to put down!"
+            ]
+        },
+        {
+            "tag": "weather",
+            "patterns": [
+                "What's the weather like?",
+                "Is it going to rain today?",
+                "Tell me the weather forecast",
+                "How's the weather?"
+            ],
+            "responses": [
+                "I'm not able to check the weather right now, but you can use a weather app!",
+                "Check your local weather service for the latest updates!",
+                "I can't access the weather, but I hope it's nice outside!"
+            ]
+        },
+        {
+            "tag": "news",
+            "patterns": [
+                "What's the latest news?",
+                "Tell me the news",
+                "Any updates on current events?",
+                "What's happening in the world?"
+            ],
+            "responses": [
+                "I can't access news right now, but I recommend checking reliable news sources!",
+                "For the latest updates, consider using a news app!",
+                "I'm here for questions, but check the news online for current events!"
+            ]
+        },
+        {
+            "tag": "compliments",
+            "patterns": [
+                "You are awesome!",
+                "You're great!",
+                "I like you!",
+                "You're amazing!"
+            ],
+            "responses": [
+                "Thank you! You're awesome too!",
+                "I appreciate your kind words!",
+                "You're making me blush!",
+                "Thanks! I'm here to help!"
+            ]
+        },
+        {
+            "tag": "weather",
+            "patterns": ["What's the weather like?", "Check the weather", "How's the weather?", "Weather"],
+            "responses": ["What city do you want to check the weather for?"]
+        },
+        {
+            "tag": "open_google",
+            "patterns": ["Open Google", "Go to Google"],
+            "responses": ["Opening Google..."]
+        },
+        {
+            "tag": "application",
+            "patterns": ["Open {app_name}", "Launch {app_name}"],
+            "responses": ["Opening the application..."]
+        }
+    ]
+}

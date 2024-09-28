@@ -1,0 +1,126 @@
+2024-09-28 22:10:48,318 - INFO - User Input: hi | Predicted Tag: greeting | Response: Hi there! How can I help?
+2024-09-28 22:11:14,249 - INFO - User Input: what is your name | Predicted Tag: name | Response: I'm ChatBot, here to help you.
+2024-09-28 22:18:00,502 - INFO - User Input: hi | Predicted Tag: greeting | Response: Greetings! How can I be of service?
+2024-09-28 22:18:08,533 - INFO - User Input: where are you | Predicted Tag: location | Response: I exist online, so I'm always with you!
+2024-09-28 22:18:19,797 - INFO - User Input: what weather today | Predicted Tag: weather | Response: Check your local weather service for the latest updates!
+2024-09-28 22:21:19,699 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-28 22:21:19,699 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-28 22:21:19,722 - INFO -  * Restarting with watchdog (windowsapi)
+2024-09-28 22:21:29,166 - WARNING -  * Debugger is active!
+2024-09-28 22:21:29,171 - INFO -  * Debugger PIN: 516-455-068
+2024-09-28 22:23:49,649 - INFO -  * Detected change in 'D:\\project_Internship\\chatbot\\chatbot.py', reloading
+2024-09-28 22:23:49,650 - INFO -  * Detected change in 'D:\\project_Internship\\chatbot\\chatbot.py', reloading
+2024-09-28 22:23:51,088 - INFO -  * Restarting with watchdog (windowsapi)
+2024-09-28 22:24:36,454 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-28 22:24:36,454 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-28 22:24:36,466 - INFO -  * Restarting with watchdog (windowsapi)
+2024-09-28 22:24:45,982 - WARNING -  * Debugger is active!
+2024-09-28 22:24:45,988 - INFO -  * Debugger PIN: 516-455-068
+2024-09-28 22:30:31,256 - INFO -  * Detected change in 'E:\\Project\\venv\\Lib\\site-packages\\flask_cors\\__init__.py', reloading
+2024-09-28 22:30:31,256 - INFO -  * Detected change in 'E:\\Project\\venv\\Lib\\site-packages\\flask_cors\\__init__.py', reloading
+2024-09-28 22:30:31,257 - INFO -  * Detected change in 'E:\\Project\\venv\\Lib\\site-packages\\flask_cors\\__init__.py', reloading
+2024-09-28 22:30:31,257 - INFO -  * Detected change in 'E:\\Project\\venv\\Lib\\site-packages\\flask_cors\\core.py', reloading
+2024-09-28 22:30:31,258 - INFO -  * Detected change in 'E:\\Project\\venv\\Lib\\site-packages\\flask_cors\\core.py', reloading
+2024-09-28 22:30:31,258 - INFO -  * Detected change in 'E:\\Project\\venv\\Lib\\site-packages\\flask_cors\\decorator.py', reloading
+2024-09-28 22:30:31,258 - INFO -  * Detected change in 'E:\\Project\\venv\\Lib\\site-packages\\flask_cors\\decorator.py', reloading
+2024-09-28 22:30:31,259 - INFO -  * Detected change in 'E:\\Project\\venv\\Lib\\site-packages\\flask_cors\\extension.py', reloading
+2024-09-28 22:30:31,259 - INFO -  * Detected change in 'E:\\Project\\venv\\Lib\\site-packages\\flask_cors\\extension.py', reloading
+2024-09-28 22:30:31,260 - INFO -  * Detected change in 'E:\\Project\\venv\\Lib\\site-packages\\flask_cors\\version.py', reloading
+2024-09-28 22:30:31,260 - INFO -  * Detected change in 'E:\\Project\\venv\\Lib\\site-packages\\flask_cors\\version.py', reloading
+2024-09-28 22:30:32,176 - INFO -  * Restarting with watchdog (windowsapi)
+2024-09-28 22:30:44,675 - WARNING -  * Debugger is active!
+2024-09-28 22:30:44,680 - INFO -  * Debugger PIN: 516-455-068
+2024-09-28 22:30:53,837 - INFO -  * Detected change in 'D:\\project_Internship\\chatbot\\chatbot.py', reloading
+2024-09-28 22:30:55,184 - INFO -  * Restarting with watchdog (windowsapi)
+2024-09-28 22:31:06,742 - WARNING -  * Debugger is active!
+2024-09-28 22:31:06,747 - INFO -  * Debugger PIN: 516-455-068
+2024-09-28 22:31:07,932 - INFO -  * Detected change in 'D:\\project_Internship\\chatbot\\chatbot.py', reloading
+2024-09-28 22:31:07,933 - INFO -  * Detected change in 'D:\\project_Internship\\chatbot\\chatbot.py', reloading
+2024-09-28 22:31:07,941 - INFO -  * Detected change in 'D:\\project_Internship\\chatbot\\chatbot.py', reloading
+2024-09-28 22:31:08,922 - INFO -  * Restarting with watchdog (windowsapi)
+2024-09-28 22:31:19,800 - WARNING -  * Debugger is active!
+2024-09-28 22:31:19,805 - INFO -  * Debugger PIN: 516-455-068
+2024-09-28 22:31:20,856 - INFO -  * Detected change in 'D:\\project_Internship\\chatbot\\chatbot.py', reloading
+2024-09-28 22:31:20,858 - INFO -  * Detected change in 'D:\\project_Internship\\chatbot\\chatbot.py', reloading
+2024-09-28 22:31:22,458 - INFO -  * Restarting with watchdog (windowsapi)
+2024-09-28 22:31:32,746 - WARNING -  * Debugger is active!
+2024-09-28 22:31:32,751 - INFO -  * Debugger PIN: 516-455-068
+2024-09-28 22:31:53,197 - INFO -  * Detected change in 'D:\\project_Internship\\chatbot\\chatbot.py', reloading
+2024-09-28 22:31:53,198 - INFO -  * Detected change in 'D:\\project_Internship\\chatbot\\chatbot.py', reloading
+2024-09-28 22:31:53,199 - INFO -  * Detected change in 'D:\\project_Internship\\chatbot\\chatbot.py', reloading
+2024-09-28 22:31:54,200 - INFO -  * Restarting with watchdog (windowsapi)
+2024-09-28 22:32:05,447 - WARNING -  * Debugger is active!
+2024-09-28 22:32:05,452 - INFO -  * Debugger PIN: 516-455-068
+2024-09-28 22:33:19,611 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-28 22:33:19,611 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-28 22:33:19,624 - INFO -  * Restarting with watchdog (windowsapi)
+2024-09-28 22:33:29,532 - WARNING -  * Debugger is active!
+2024-09-28 22:33:29,537 - INFO -  * Debugger PIN: 516-455-068
+2024-09-28 22:35:30,915 - INFO -  * Detected change in 'D:\\project_Internship\\chatbot\\chatbot.py', reloading
+2024-09-28 22:35:30,916 - INFO -  * Detected change in 'D:\\project_Internship\\chatbot\\chatbot.py', reloading
+2024-09-28 22:35:30,941 - INFO -  * Detected change in 'D:\\project_Internship\\chatbot\\chatbot.py', reloading
+2024-09-28 22:35:33,266 - INFO -  * Restarting with watchdog (windowsapi)
+2024-09-28 22:35:33,401 - INFO -  * Restarting with watchdog (windowsapi)
+2024-09-28 22:35:46,432 - WARNING -  * Debugger is active!
+2024-09-28 22:35:46,438 - INFO -  * Debugger PIN: 516-455-068
+2024-09-28 22:35:46,684 - WARNING -  * Debugger is active!
+2024-09-28 22:35:46,689 - INFO -  * Debugger PIN: 516-455-068
+2024-09-28 22:36:24,833 - INFO -  * Detected change in 'D:\\project_Internship\\bot\\Lib\\site-packages\\nltk\\chat\\util.py', reloading
+2024-09-28 22:36:24,833 - INFO -  * Detected change in 'D:\\project_Internship\\bot\\Lib\\site-packages\\nltk\\chat\\zen.py', reloading
+2024-09-28 22:36:24,833 - INFO -  * Detected change in 'D:\\project_Internship\\bot\\Lib\\site-packages\\nltk\\chat\\__init__.py', reloading
+2024-09-28 22:36:24,835 - INFO -  * Detected change in 'D:\\project_Internship\\bot\\Lib\\site-packages\\nltk\\chat\\iesha.py', reloading
+2024-09-28 22:36:24,839 - INFO -  * Detected change in 'D:\\project_Internship\\bot\\Lib\\site-packages\\nltk\\chat\\rude.py', reloading
+2024-09-28 22:36:24,966 - INFO -  * Detected change in 'D:\\project_Internship\\chatbot\\chatbot.py', reloading
+2024-09-28 22:36:24,967 - INFO -  * Detected change in 'D:\\project_Internship\\chatbot\\app.py', reloading
+2024-09-28 22:36:26,192 - INFO -  * Restarting with watchdog (windowsapi)
+2024-09-28 22:36:37,624 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-28 22:36:37,624 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-28 22:36:37,636 - INFO -  * Restarting with watchdog (windowsapi)
+2024-09-28 22:36:47,782 - WARNING -  * Debugger is active!
+2024-09-28 22:36:47,788 - INFO -  * Debugger PIN: 516-455-068
+2024-09-28 22:38:01,005 - INFO -  * Detected change in 'D:\\project_Internship\\chatbot\\app.py', reloading
+2024-09-28 22:38:01,005 - INFO -  * Detected change in 'D:\\project_Internship\\chatbot\\chatbot.py', reloading
+2024-09-28 22:38:02,013 - INFO -  * Restarting with watchdog (windowsapi)
+2024-09-28 22:41:43,387 - INFO - User Input: open notepad | Predicted Tag: greeting | Response: Opened the application.
+2024-09-28 22:41:55,862 - ERROR - Error opening application: [WinError 2] The system cannot find the file specified
+2024-09-28 22:41:55,862 - INFO - User Input: open google | Predicted Tag: greeting | Response: Failed to open the application.
+2024-09-28 22:42:23,334 - ERROR - Error opening application: [WinError 2] The system cannot find the file specified
+2024-09-28 22:42:23,334 - INFO - User Input: open chorme | Predicted Tag: greeting | Response: Failed to open the application.
+2024-09-28 22:42:37,720 - ERROR - Error opening application: [WinError 2] The system cannot find the file specified
+2024-09-28 22:42:37,720 - INFO - User Input: open c drive | Predicted Tag: greeting | Response: Failed to open the application.
+2024-09-28 22:42:50,454 - ERROR - Error opening application: [WinError 2] The system cannot find the file specified
+2024-09-28 22:42:50,455 - INFO - User Input: open vscode | Predicted Tag: greeting | Response: Failed to open the application.
+2024-09-28 22:43:05,734 - INFO - User Input: take a screen short | Predicted Tag: goodbye | Response: See you later!
+2024-09-28 22:46:23,128 - ERROR - Error opening application: [WinError 2] The system cannot find the file specified
+2024-09-28 22:46:23,128 - INFO - User Input: open gooogle | Predicted Tag: greeting | Response: Failed to open the application.
+2024-09-28 22:46:31,113 - ERROR - Error opening application: [WinError 2] The system cannot find the file specified
+2024-09-28 22:46:31,113 - INFO - User Input: open google | Predicted Tag: open_google | Response: Failed to open the application.
+2024-09-28 22:46:40,820 - INFO - User Input: automate message send | Predicted Tag: greeting | Response: Task not recognized.
+2024-09-28 22:47:36,357 - INFO - User Input: take a screenshot | Predicted Tag: goodbye | Response: Take care!
+2024-09-28 22:54:56,094 - INFO - User Input: what is weather today | Predicted Tag: weather | Response: Could not retrieve weather information. Please check the city name.
+2024-09-28 22:55:23,454 - INFO - User Input: weather of multan | Predicted Tag: weather | Response: Could not retrieve weather information. Please check the city name.
+2024-09-28 22:56:56,150 - ERROR - Error opening application: [WinError 2] The system cannot find the file specified
+2024-09-28 22:56:56,151 - INFO - User Input: open chrome | Predicted Tag: greeting | Response: Failed to open the application.
+2024-09-28 22:57:20,905 - INFO - User Input: open notepad | Predicted Tag: greeting | Response: Opened the application.
+2024-09-28 22:57:33,270 - ERROR - Error opening application: [WinError 2] The system cannot find the file specified
+2024-09-28 22:57:33,271 - INFO - User Input: open calculator | Predicted Tag: greeting | Response: Failed to open the application.
+2024-09-28 22:57:42,023 - ERROR - Error opening application: [WinError 2] The system cannot find the file specified
+2024-09-28 22:57:42,023 - INFO - User Input: open calculator | Predicted Tag: greeting | Response: Failed to open the application.
+2024-09-28 22:58:48,920 - ERROR - Error opening application: [WinError 2] The system cannot find the file specified
+2024-09-28 22:58:48,921 - INFO - User Input: open media player | Predicted Tag: greeting | Response: Failed to open the application.
+2024-09-28 22:58:59,798 - ERROR - Error opening application: [WinError 2] The system cannot find the file specified
+2024-09-28 22:58:59,798 - INFO - User Input: open calculator | Predicted Tag: greeting | Response: Failed to open the application.
+2024-09-28 22:59:11,716 - INFO - User Input: how are you | Predicted Tag: greeting | Response: Hi there! How can I help?
+2024-09-28 22:59:22,709 - INFO - User Input: where i am | Predicted Tag: greeting | Response: Hi there! How can I help?
+2024-09-28 22:59:57,653 - INFO - User Input: tell me a joke | Predicted Tag: joke | Response: Why don't scientists trust atoms? Because they make up everything!
+2024-09-28 23:00:43,285 - INFO - User Input: start chrome | Predicted Tag: greeting | Response: Hi there! How can I help?
+2024-09-28 23:01:01,813 - INFO - User Input: restart | Predicted Tag: greeting | Response: Greetings! How can I be of service?
+2024-09-28 23:02:13,288 - ERROR - Error opening application: [WinError 2] The system cannot find the file specified
+2024-09-28 23:02:13,288 - INFO - User Input: open google | Predicted Tag: open_google | Response: Failed to open the application.
+2024-09-28 23:02:34,568 - ERROR - Error opening application: [WinError 2] The system cannot find the file specified
+2024-09-28 23:02:34,568 - INFO - User Input: open google | Predicted Tag: open_google | Response: Failed to open the application.
+2024-09-28 23:02:43,653 - INFO - User Input: shutdown | Predicted Tag: greeting | Response: I'm here to help! What do you need?
